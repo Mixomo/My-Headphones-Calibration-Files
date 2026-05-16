@@ -43,10 +43,20 @@ This preference calibration may be less technically "correct", or perhaps not, s
 
 ### Sennheiser HD560S
 
+- RAW measurement + EQ
+
 ![Sennheiser HD560S RAW measurement + EQ](Sennheiser_HD560S/raw_measurement_and_EQ.png)
+
+- compensated measurement + EQ
+
 ![Sennheiser HD560S compensated measurement + EQ](Sennheiser_HD560S/compensated_measurement_and_EQ.png)
 
 ### Aune AR5000
 
+- RAW measurement + EQ
+
 ![Aune AR5000 RAW measurement + EQ](Aune_AR5000/raw_measurement_and_EQ.png)
+
+- compensated measurement + EQ
+
 ![Aune AR5000 compensated measurement + EQ](Aune_AR5000/compensated_measurement_and_EQ.png)
