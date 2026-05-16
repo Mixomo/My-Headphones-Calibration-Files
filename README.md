@@ -26,7 +26,7 @@ For the Aune AR5000, it was necessary to extract the RAW measurement published b
 
 For both headphones, CSV files compatible with APO Equalizer and Melda FreeForm EQ (VST for DAW use) are included, along with parametric EQ files compatible with APO / Peace GUI, plus `.txt` files compatible with Wavelet on Android and APO Equalizer using the `GraphicEQ:` format. The original GraphicEQ exported by AutoEQ from squig.link is also included for each headphone, along with images of the RAW and compensated measurements for each headphone and their respective EQs.
 
-For the Aune AR5000, an additional calibration based on my personal preference is included. It was obtained through an AI-assisted intelligent weighting process which used the original DF 5128 calibration of the Sennheiser HD560S as a reference, preserving the bass and cleaning up the nasal midrange of the original DF 5128 calibration for the Aune AR5000.
+For the Aune AR5000, an additional calibration based on my personal preference is included. It was obtained through an AI-assisted intelligent weighting process which used the original DF 5128 calibration of the Sennheiser HD560S as a reference, preserving the Senn deep bass, relaxing the treble a little bit and cleaning up the nasal midrange of the original DF 5128 calibration for the Aune AR5000.
 
 This preference calibration may be less technically "correct", or perhaps not, since the Aune AR5000 required RAW measurements from outside Earphone Archives. In practice, both headphones now share a very similar calibrated timbre that is easy to listen to, and in the case of the Aune AR5000, this preference calibration starts from the DF 5128 with only minimal changes.
 
