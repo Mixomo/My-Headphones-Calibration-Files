@@ -24,7 +24,7 @@ For the Sennheiser HD560S, a 5128 measurement was found in Earphone Archives.
 
 For the Aune AR5000, it was necessary to extract the RAW measurement published by Listener / Resolve (Headphones.com) in the article for this headphone. That measurement was then imported into squig.link for further work.
 
-For both headphones, CSV files compatible with APO Equalizer and Melda FreeForm EQ (VST for DAW use) are included, along with parametric EQ files compatible with APO / Peace GUI, plus `.txt` files compatible with Wavelet on Android and APO Equalizer using the `GraphicEQ:` format. The original GraphicEQ exported by AutoEQ from squig.link is also included for each headphone, along with images of the RAW and compensated measurements for each headphone and their respective EQs.
+For both headphones, the repository includes RAW measurement exports, the shared `DF_5128_tilt_minus_one_per_octave_target_curve.txt` target curve, CSV files compatible with APO Equalizer and Melda FreeForm EQ (VST for DAW use), parametric EQ files compatible with APO / Peace GUI, and `.txt` files compatible with Wavelet on Android and APO Equalizer using the `GraphicEQ:` format. The original GraphicEQ exported by AutoEQ from squig.link is also included for each headphone, along with images of the RAW and compensated measurements with their respective EQs.
 
 For the Aune AR5000, an additional calibration based on my personal preference is included. It was obtained through an AI-assisted intelligent weighting process which used the original DF 5128 calibration of the Sennheiser HD560S as a reference, preserving the Senn deep bass, relaxing the treble a little bit and cleaning up the nasal midrange of the original DF 5128 calibration for the Aune AR5000.
 
