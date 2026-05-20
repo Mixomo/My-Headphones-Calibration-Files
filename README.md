@@ -1,5 +1,8 @@
 # My Headphones Calibration Files 
 
+> [!NOTE]
+> These files are compatible with my [CalCurve VST plugin](https://github.com/Mixomo/CalCurve)
+
 ## Preface
 
 The [Brüel & Kjær 5128 HATS](https://media.hbkworld.com/m/8beb5a6068848d30/original/High-frequency-Head-and-Torso-Simulator-Type-5128-Family.pdf) is a high-frequency Head and Torso Simulator designed for acoustic measurements that need to approximate how sound interacts with a human head, torso, outer ear, ear canal, and eardrum reference point. It is commonly used for headphone and earphone measurements, hearing-device evaluation, telephony, voice communication testing, spatial audio work, and other cases where the interaction between a device and human anatomy matters.
